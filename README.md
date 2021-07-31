@@ -1,2 +1,2 @@
-# -AI-Labs-Joint-Program
+# AI-Labs-Joint-Program
 Repository for inzva AI Labs Joint Program
